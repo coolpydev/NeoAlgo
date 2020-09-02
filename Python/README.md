@@ -37,6 +37,7 @@
 * [Exponential Search](search/exponential_search.py)
 * [Random Select Algorithm](search/random_select.py)
 
+
 ## Sorting
 * [Bead Sort](sort/Bead_Sort.py)
 * [Bubble Sort](sort/Bubble_Sort.py)
@@ -89,6 +90,7 @@
 * [Anagram Checker](cp/anagram_checker.py)
 * [Target sum triplet](cp/Target_Sum_Triplet.py)
 * [Triplets with Zero Sum](cp/find_Triplets_with_zero_sum.py)
+* [AGGRCOW](cp/aggrcow.py)
 
 ## Dynamic Programming
 _add list here_
