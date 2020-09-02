@@ -11,7 +11,7 @@ def num_cows(diff, a, c):
             if count >= c:
                 return True
     return False
-
+ 
  
 while t:
     n, c = map(int, input().split())
