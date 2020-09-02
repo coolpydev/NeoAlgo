@@ -25,7 +25,7 @@ while t:
     hi = x[n-1]
     while lo < hi:
         mid = lo + (hi-lo+1)//2
-        #print(mid) 1
+        #print(mid) 
         num = num_cows(mid, x, c)
         if num:
             lo = mid
